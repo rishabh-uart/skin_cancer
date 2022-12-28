@@ -1,5 +1,5 @@
-numpy
-pandas==1.5.2
+numpy==1.19.2
+pandas
 Pillow==7.0.0
 plotly==4.7.1
 streamlit==0.58.0
